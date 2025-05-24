@@ -15,4 +15,4 @@ I followed the sample app provided by Microsoft - https://learn.microsoft.com/en
 
 Run the application
 
-![Screenshot of the app](.venv\images\python-flask-app.png)
+![Screenshot of the app](images\python-flask-app.png)
