@@ -1,6 +1,6 @@
 # Python Flask App
 
-I followed the sample app provided by Microsoft - https://learn.microsoft.com/en-us/visualstudio/ide/quickstart-python?view=vs-2022
+I followed the sample app provided by Visual Studio - https://code.visualstudio.com/docs/python/tutorial-flask
 
 ## Installation
 
